@@ -1,0 +1,11 @@
+CMakeFiles/
+client_examples_*
+cscope.files
+cscope.in.out
+cscope.out
+cscope.po.out
+libvncserver.*
+libvncclient.*
+*.swp
+examples_*
+tags
